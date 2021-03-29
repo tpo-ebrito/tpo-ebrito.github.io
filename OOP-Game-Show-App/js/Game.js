@@ -17,7 +17,7 @@ class Game {
       new Phrase('Have you reviewed my demand'),
       new Phrase('Are there limit issues'),
       new Phrase('Are you signatory to Arb Forums'),
-      new Phrase('What is the underwriting company'),
+      new Phrase('What is the underwriting company')
       // new Phrase('Let the cat out of the bag')
     ]
     this.activePhrase = null
